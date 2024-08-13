@@ -14,7 +14,7 @@ body {
 
 header {
     height: 100vh;
-    background: url('images/hero-bg.jpg') no-repeat center center/cover;
+    background: url('hero-bg.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -127,7 +127,7 @@ section p {
 }
 
 .parallax {
-    background: url('images/interests-bg.jpg') no-repeat center center/cover;
+    background: url('interests-bg.jpg') no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     align-items: center;
